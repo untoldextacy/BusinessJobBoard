@@ -1,6 +1,10 @@
+
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: rgb(203, 213, 174);
+  
 }
 
 .swim-lanes {
@@ -14,3 +18,4 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
